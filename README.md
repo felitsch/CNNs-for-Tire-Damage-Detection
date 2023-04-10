@@ -1,7 +1,7 @@
 # Tire Damage Detection - Deep Learning Project
 
 ## Overview
-In this project, we use Deep Learning techniques to identify tire damage from a dataset of tire images. Our team has chosen this problem as an interesting application of Deep Learning in the automotive industry.
+In this project, we use Deep Learning techniques like CNNs and FCNNs to identify tire damage from a dataset of tire images. Our team has chosen this problem as an interesting application of Deep Learning in the automotive industry.
 
 ## About the Dataset
 Context
