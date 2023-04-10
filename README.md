@@ -16,12 +16,13 @@ This dataset is split into training and testing data, which is further split int
 ## Repository Contents
 This repository contains the following notebooks:
 
-01_explore.ipynb - Data exploration and visualization
-02_preprocess.ipynb - Data preprocessing and preparation
-03_Handcrafted_Model_Lenet.ipynb - Implementation of the handcrafted model (LeNet architecture)
-04_model_hyper_search.ipynb - Hyperparameter search and comparison with the handcrafted model
-05_model_handcrafted_second_trial.ipynb - Second iteration of the handcrafted model
-06_tranfer_model.ipynb - Implementation of transfer learning and comparison with the best model
+- 01_explore.ipynb - Data exploration and visualization
+- 02_preprocess.ipynb - Data preprocessing and preparation
+- 03_Handcrafted_Model_Lenet.ipynb - Implementation of the handcrafted model (LeNet architecture)
+- 04_model_hyper_search.ipynb - Hyperparameter search and comparison with the handcrafted model
+- 05_model_handcrafted_second_trial.ipynb - Second iteration of the handcrafted model
+- 06_tranfer_model.ipynb - Implementation of transfer learning and comparison with the best model
+
 Each notebook contains a report section detailing the approach, steps, and findings of the corresponding part of the project.
 
 ## Usage
